@@ -84,8 +84,7 @@ This feature of the API can place text into specific categories based on the fol
             }
 	   
 ### Summary
-As you've seen in this module, it's easy to add text filters to your apps and services with Microsoft Azure Content Moderator. With the Text Moderation API, you can:
-
+It's easy to add text filters to your apps and services with Microsoft Azure Content Moderator. With the Text Moderation API, we can:
 - Analyze text to look for unwanted content.
 - Classify the potentially offensive content.
 - Get insights into the potential PII that's being shared so that you can protect it.
