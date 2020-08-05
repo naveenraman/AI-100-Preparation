@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/AI-100-Preparation/v16/Server/sqlite3
+/.vs/AI-100-Preparation/v16/.suo
+/.vs/AI-100-Preparation/DesignTimeBuild
+/ContentModerator/bin/Debug/netcoreapp3.1
+/ContentModerator/obj

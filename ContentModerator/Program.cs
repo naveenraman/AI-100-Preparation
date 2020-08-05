@@ -5,7 +5,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace content_moderator_quickstart
+namespace ContentModerator
 {
     class Program
     {
